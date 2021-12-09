@@ -1,3 +1,3 @@
-print("*", end=" ")
-print("* *", end=" ")
-print("* * * ", end=" ")
+print(" ","*")
+print("","*","","*")
+print("* * * ")
