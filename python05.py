@@ -1,3 +1,3 @@
-print("A", end=" ")
-print("B B", end=" ")
-print("C C C", end=" ")
+print(" ","A")
+print("","B","","B")
+print("C C C")
