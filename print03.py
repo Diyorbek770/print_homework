@@ -1,3 +1,3 @@
-print("( _ )", end=" ")
-print(") (", end=" ")
+print(" ","( _ )")
+print("",")","", "(")
 print(" ")
